@@ -15,7 +15,7 @@ Input()
 while(true) {
     x+= velX 
     y+= velY
-    velX = velX *.95
+    velX = velX *.99
     velY = velY *.99
     camX = x
     camY = y
